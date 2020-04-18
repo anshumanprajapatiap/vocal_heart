@@ -1,0 +1,40 @@
+.ap-featured-slider-single::before,
+#ap-counter:before,
+.ap-filter-item-content,
+.ap-simplefilter li:hover,
+.ap-simplefilter li.active,
+.ap-team-content-single:hover {
+  background: #970001;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #B06AB3, #970001);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #B06AB3, #970001); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.ap-heading-title>span,
+.ap-service-icon-box,
+.ap-team-social-info a:hover,
+.ap-team-social-info a:focus,
+.ap-testimonial-slide .slick-dots li button::before,
+.ap-testimonial-slide .slick-dots li.slick-active button::before,
+.ap-footer-area a:hover,
+.ap-footer-area a:focus {
+  color: #970001;
+}
+
+.ap-send-msg-btn:hover,
+.ap-send-msg-btn:focus,
+.ap-about-icon-box,
+.ap-social-media a:hover,
+.ap-social-media a:focus {
+  border: 1px solid #970001;
+  color: #970001;
+}
+
+.ap-testimonial-slide .slick-dots li button:hover,
+.ap-testimonial-slide .slick-dots li button:focus,
+.ap-testimonial-slide .slick-dots li.slick-active button {
+  background-color: #970001;
+}
+
+.ap-contact-form .form-control:focus {
+  border: 1px solid #970001;    
+} 
